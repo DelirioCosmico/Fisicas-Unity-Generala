@@ -12,10 +12,10 @@ public class DiceRoller : MonoBehaviour
     {
         { Vector3.up, 6 },
         { Vector3.down, 1 },
-        { Vector3.forward, 2 },
-        { Vector3.back, 5 },
-        { Vector3.right, 3 },
-        { Vector3.left, 4 }
+        { Vector3.forward, 5 },
+        { Vector3.back, 2 },
+        { Vector3.right, 4 },
+        { Vector3.left, 3 }
     };
 
     void Start()
